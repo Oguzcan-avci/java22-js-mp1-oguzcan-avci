@@ -1,0 +1,40 @@
+p{
+    text-align: center;
+    margin: auto;
+    width: 50%; 
+}
+
+
+
+.second-div{
+    text-align: center;
+    margin: auto;
+    width: 50%; 
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    border: 1px solid black;
+    
+
+
+}
+
+.child-div1 {
+    background-color: #9d83f2;
+    width: 80px;
+    align-self:flex-start;
+}
+
+.child-div2{
+    background-color: #9d83f2;
+    width: 80px;
+    align-self:flex-start;
+}
+
+.child-div3{
+    background-color: #9d83f2;
+    width: 80px;
+    align-self:flex-start;
+}
+
+
